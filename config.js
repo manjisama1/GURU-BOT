@@ -55,7 +55,7 @@ global.fgsc = 'https://chat.whatsapp.com/BzWQlPq5grMCA1Tad7j03S'
 global.fgyt = 'https://youtube.com/@manji_sama_'
 global.fgpyp = 'https://youtube.com/@manji_sama_'
 global.fglog = 'https://i.imgur.com/PMY08kz.jpg' 
-global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://manjisama1:bFvSxBnYPn2FdzGp@cluster0.pkbxnoj.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
